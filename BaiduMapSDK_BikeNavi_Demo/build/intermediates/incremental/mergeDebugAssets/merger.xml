@@ -1,2 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="D:\itheima\MapDemo\BaiduMapSDK_BikeNavi_Demo\src\main\assets"><file name="BaiduBikeNavi_Resource_v4_2_0.png" path="D:\itheima\MapDemo\BaiduMapSDK_BikeNavi_Demo\src\main\assets\BaiduBikeNavi_Resource_v4_2_0.png"/></source><source path="D:\itheima\MapDemo\BaiduMapSDK_BikeNavi_Demo\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="D:\itheima\MapDemo\BaiduMapSDK_BikeNavi_Demo\src\debug\assets"/></dataSet></merger>

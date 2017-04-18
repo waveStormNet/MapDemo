@@ -12,13 +12,13 @@ repositories {
 android {
     compileSdkVersion 22
     buildToolsVersion '24'
-//
-//    signingConfigs {
-//        // your debug keystore
-//        debug{
-//            storeFile file("debug.keystore")
-//        }
-//    }
+
+    signingConfigs {
+        // your debug keystore
+        debug{
+            storeFile file("debug.keystore")
+        }
+    }
 
     sourceSets {
         main {
