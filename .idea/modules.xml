@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/BaiduMapSDK_BikeNavi_Demo/BaiduMapSDK_BikeNavi_Demo.iml" filepath="$PROJECT_DIR$/BaiduMapSDK_BikeNavi_Demo/BaiduMapSDK_BikeNavi_Demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/MapDemo.iml" filepath="$PROJECT_DIR$/MapDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baidumapdemo/baidumapdemo.iml" filepath="$PROJECT_DIR$/baidumapdemo/baidumapdemo.iml" />
     </modules>
   </component>
 </project>

@@ -1,1 +1,1 @@
-include ':app', ':BaiduMapSDK_BikeNavi_Demo'
+include ':app', ':BaiduMapSDK_BikeNavi_Demo', ':baidumapdemo'
